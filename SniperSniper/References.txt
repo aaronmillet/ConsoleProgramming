@@ -4,3 +4,4 @@ Sniper Rifle Asset - https://www.assetstore.unity3d.com/en/#!/content/72270
 Zooming Scope Tutorial - https://youtu.be/U88LWbVv9BY
 Sniper Scope Overlay - https://s-media-cache-ak0.pinimg.com/originals/90/e7/67/90e767b31f3568047b236afb40dc9c7a.png
 Unreal .gitignore - https://github.com/github/gitignore/blob/master/UnrealEngine.gitignore
+Sniper Rifle Shot Sound - http://soundbible.com/1788-Sniper-Rifle.html
